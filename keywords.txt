@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For MyWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MyWire	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+send	KEYWORD2
+receive	KEYWORD2
+resend	KEYWORD2
+getSenderAddress	KEYWORD2
+getReceivedData	KEYWORD2
+requestResend	KEYWORD2
+encryptData	KEYWORD2
+calculateParity	KEYWORD2
